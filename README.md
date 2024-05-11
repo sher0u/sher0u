@@ -16,4 +16,4 @@ I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍�
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/sher0u/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sher0u)](https://github.com/sher0u/github-readme-stats)
