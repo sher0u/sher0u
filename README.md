@@ -1,9 +1,15 @@
-👋 Hi, I'm Abdelakder, a Computer Engineer & Software Developer from Algeria based in Russia.
+![Animated Greeting](link-to-your-gif.gif)
+
+### 👋 Hi there, I'm Abdelakder!
+
+I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍💻
 
 🎓 Currently pursuing a specialist degree in Computer Security.
 
-💻 I enjoy writing code, tinkering with hardware, and learning everything about them! 😊
+💡 I love writing code, tinkering with hardware, and diving deep into cybersecurity! 😊
 
+---
 
-🔥 Languages & Frameworks & Tools & Abilities 🔥
-HTML5 | CSS | Python | C | Java | Git | GitHub | Visual Studio Code
+### 🔥 Languages & Frameworks & Tools & Abilities 🔥
+
+🌐 HTML5 &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🅲 C &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🛠️ Git &nbsp;|&nbsp; 🐙 GitHub &nbsp;|&nbsp; 💻 Visual Studio Code
