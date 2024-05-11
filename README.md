@@ -1,6 +1,4 @@
-![Animated Greeting](link-to-your-gif.gif)
-
-### 👋 Hi there, I'm Abdelakder!
+                  👋 Hi there, I'm Abdelakder!
 
 I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍💻
 
