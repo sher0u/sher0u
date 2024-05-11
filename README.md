@@ -13,3 +13,7 @@ I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍�
 ### 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
 🌐 HTML5 &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🅲 C &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🛠️ Git &nbsp;|&nbsp; 🐙 GitHub &nbsp;|&nbsp; 💻 Visual Studio Code
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/username/github-readme-stats)
