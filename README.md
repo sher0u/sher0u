@@ -12,7 +12,7 @@ I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍�
 
 ### 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
-🌐 HTML5 &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🅲 C &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🛠️ Git &nbsp;|&nbsp; 🐙 GitHub &nbsp;|&nbsp; 💻 Visual Studio Code
+🌐 HTML5 &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🅲 C C++ &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🛠️ Git &nbsp;|&nbsp; 🐙 GitHub &nbsp;|&nbsp; 💻 Visual Studio Code
 
 ---
 
