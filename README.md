@@ -15,6 +15,6 @@ I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍�
 🌐 HTML5 &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🅲 C C++ C# &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🛠️ Git &nbsp;|&nbsp; 🐙 GitHub &nbsp;|&nbsp; 💻 Visual Studio Code
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sher0u&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="sher0u's GitHub Stats" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sher0u&theme=tokyonight&hide_border=true" alt="sher0u's GitHub Stats" />
