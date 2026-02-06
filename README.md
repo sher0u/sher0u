@@ -18,3 +18,5 @@ I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍�
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sher0u&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="sher0u's GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sher0u&theme=tokyonight&hide_border=true" alt="sher0u's GitHub Stats" />
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sher0u.png" alt="Your Image Badge" />
