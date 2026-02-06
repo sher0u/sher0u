@@ -19,4 +19,6 @@ I'm a Cyber Security Student from Algeria, currently based in Russia. 👨‍�
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sher0u&theme=tokyonight&hide_border=true" alt="sher0u's GitHub Stats" />
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6783305" style='border:none;'></img>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-View%20Profile-red?logo=tryhackme)](https://tryhackme.com/p/6783305)
+
+
